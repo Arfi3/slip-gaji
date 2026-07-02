@@ -1,8 +1,12 @@
 # Form Print Out Slip Gaji Pegawai
+![Dataset Preview](https://github.com/Arfi3/slip-gaji/blob/main/Screenshot%202026-07-02%20111934.png)
+
+
+![Dataset Preview](https://github.com/Arfi3/slip-gaji/blob/main/Screenshot%202026-07-02%20111949.png)
 
 Halaman web sederhana untuk mencari data gaji pegawai berdasarkan NIP, menampilkannya dalam format slip gaji resmi, lalu mencetaknya langsung dari browser.
 
-**Live demo:** _(isi link GitHub Pages di sini setelah deploy)_
+**Live demo:** https://arfi3.github.io/slip-gaji/
 
 ## Tampilan
 
